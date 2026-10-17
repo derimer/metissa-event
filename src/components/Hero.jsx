@@ -5,7 +5,7 @@ function Hero() {
         <p className="hero-subtitle">Wedding Planner • Drôme • Ardèche</p>
 
         <h1>
-          Votre mariage,
+          Votre union,
           <br />
           votre histoire
         </h1>
