@@ -2,7 +2,7 @@ function About() {
   return (
     <section className="about" id="apropos">
       <div className="about-image">
-        <img src="/images/metissa.jpg" alt="Métissa Event - Wedding Planner" />
+        <img src={`${import.meta.env.BASE_URL}images/metissa.jpg`} />
       </div>
 
       <div className="about-content">
